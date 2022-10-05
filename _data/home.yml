@@ -1,6 +1,9 @@
 navbar_entries:
   - title: Home
     url: https://jahum.github.io/dnd.github.io/
+    
+  - title: Config
+    url: overview-post
 
 project_entries:
   - title: Group Inventory and Notes
