@@ -3,6 +3,10 @@ navbar_entries:
     url: https://jahum.github.io/dnd.github.io/
 
 project_entries:
+  - title: Group Inventory and Notes
+    url: 2020-07-09-post-example-with-headings-and-toc
+    desc: Click this whenever you want. 
+    
   - title: Map 1
     url: overview-post
     desc: Don't click this until the DM asks you to.
@@ -12,6 +16,10 @@ project_entries:
     desc: Don't click this until the DM asks you to.
 
   - title: Map 3
+    url: overview-post
+    desc: Don't click this until the DM asks you to.
+    
+  - title: Map 4
     url: overview-post
     desc: Don't click this until the DM asks you to.
 
@@ -25,6 +33,10 @@ project_entries:
     desc: Don't click this until the DM asks you to.
 
   - title: Monster 3
+    url: overview-post
+    desc: Don't click this until the DM asks you to.
+    
+  - title: Monster 4
     url: overview-post
     desc: Don't click this until the DM asks you to.
 
