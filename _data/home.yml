@@ -1,13 +1,11 @@
 navbar_entries:
   - title: Home
     url: https://jahum.github.io/dnd.github.io/
-    
-  - title: Config
-    url: overview-post
+
 
 project_entries:
   - title: Group Inventory and Notes
-    url: 2020-07-09-post-example-with-headings-and-toc
+    url: constructOneShot/players/Group_Notes
     desc: Click this whenever you want. 
     
   - title: Map 1
