@@ -1,70 +1,43 @@
 navbar_entries:
-  - title: about
-    url: about
-
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
+  - title: Home
+    url: https://jahum.github.io/dnd.github.io/
 
 project_entries:
-  - title: Project 1
+  - title: Map 1
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Don't click this until the DM asks you to.
 
-  - title: Project 2
+  - title: Map 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Don't click this until the DM asks you to.
 
-  - title: Project 3
+  - title: Map 3
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Don't click this until the DM asks you to.
 
-  - title: Project 4
+  - title: Monster 1
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Don't click this until the DM asks you to.
     highlight: WIP
 
-  - title: Project 5
+  - title: Monster 2
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Don't click this until the DM asks you to.
 
-  - title: Project 6
+  - title: Monster 3
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Don't click this until the DM asks you to.
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Secret DM Folder
+    url: #
+    desc: This is for the DM to store their stuff. If you're a player, do not look in here.
+    highlight: NO PEEKING
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Home
+    url: https://jahum.github.io/dnd.github.io/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
@@ -97,5 +70,6 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
+
 
 
