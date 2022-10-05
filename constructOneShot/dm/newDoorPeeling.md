@@ -1,0 +1,1 @@
+One wall has bold black letter "ONE WORD" on closer inspection the letters can be peeled of and rearranged. "NEW DOOR" solves the puzzle and opens either a passage or a small room with loot, up to you.
